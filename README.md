@@ -1,6 +1,6 @@
 # IR-Remote
 
-## What is InfraRed (IR) Transmission?
+## What is Infrared (IR) Transmission?
 IR transmission refers to the communication of data or signals using infrared radiation, which is an electromagnetic wave with a wavelength longer than that of visible light. It is commonly used in various applications such as remote controls, data transfer between devices, and proximity sensors. 
 
 ## When to use IR Communication?
@@ -13,7 +13,11 @@ In 2017, I developed an application for my Samsung Galaxy S4 that utalized the i
 
 ![Simplest-Remote](https://github.com/TylerBerzzz/IR-Remote/assets/30520534/6e617480-27d9-4b4a-a4d9-6095e0641597)
 
+![LED-Strip-Remote1](https://github.com/TylerBerzzz/IR-Remote/assets/30520534/d4b0687a-982e-4d1e-9368-f7846c90449b)
+
+
 ### 2) Arduino Microcontroller Code
 I used an Arduino equipped with an IR receiver and transmitter to capture and interpret IR signals for various commands. By utilizing the IR receiver, I could read commands from a TV remote and then validate the functionality by transmitting those commands back to the TV using the microcontroller, effectively controlling it. 
 
 
+### Here are some ways I've used IR Communication:
