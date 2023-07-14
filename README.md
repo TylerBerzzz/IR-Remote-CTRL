@@ -23,4 +23,5 @@ I used an Arduino equipped with an IR receiver and transmitter to capture and in
 ## More Applications of IR in my Projects:
 ### [Hacknado Hackathon](https://devpost.com/software/the-hacknado-ryt10a)
 IR was used in the Hacknado project to control fan speed, LEDs, and other parameters of the device. IR was chosen due to simplicity, convinience, and low-cost.   
-![Hacknado](https://github.com/TylerBerzzz/IR-Remote/assets/30520534/84cc5e8d-117a-40cb-94e4-109c9481103a)
+![Hacknado Gif](https://github.com/TylerBerzzz/IR-Remote/assets/30520534/5d06fddb-fa6f-48de-9d44-e78761371208)
+
