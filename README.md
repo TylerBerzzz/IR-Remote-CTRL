@@ -20,4 +20,4 @@ In 2017, I developed an application for my Samsung Galaxy S4 that utalized the i
 I used an Arduino equipped with an IR receiver and transmitter to capture and interpret IR signals for various commands. By utilizing the IR receiver, I could read commands from a TV remote and then validate the functionality by transmitting those commands back to the TV using the microcontroller, effectively controlling it. 
 
 
-### Here are some ways I've used IR Communication:
+## My Applications of IR Communication in Projects:
