@@ -1,2 +1,3 @@
 # IR-Remote
-This repo showcases different methods of using Infrared Remote reading and transmission. 
+This repo showcases methods of Infrared Remote transmission and read.
+
