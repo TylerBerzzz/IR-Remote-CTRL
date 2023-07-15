@@ -17,11 +17,11 @@ In 2017, I developed an application for my Samsung Galaxy S4 that utalized the i
 
 
 ### 2) Arduino Microcontroller Code
-I used an Arduino equipped with an IR receiver and transmitter to capture and interpret IR signals for various commands. By utilizing the IR receiver, I could read commands from a TV remote and then validate the functionality by transmitting those commands back to the TV using the microcontroller, effectively controlling it. 
+I used an Arduino UNO equipped with an IR receiver and transmitter to capture and interpret IR signals for various commands. By utilizing the IR receiver, I could read commands from a TV remote and then validate the functionality by transmitting those commands back to the TV using the microcontroller, effectively controlling it. 
 
 
 ## More Applications of IR in my Projects:
 ### [Hacknado Hackathon](https://devpost.com/software/the-hacknado-ryt10a)
-IR was used in the Hacknado project to control fan speed, LEDs, and other parameters of the device. IR was chosen due to simplicity, convinience, and low-cost.   
+IR was used in the Hacknado project to control fan speed, LEDs, and other parameters of the device. IR was chosen due to simplicity, convinience, and low-cost.    
 ![Hacknado Gif](https://github.com/TylerBerzzz/IR-Remote/assets/30520534/5d06fddb-fa6f-48de-9d44-e78761371208)
 
